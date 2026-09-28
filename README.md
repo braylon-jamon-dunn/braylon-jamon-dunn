@@ -8,9 +8,9 @@ I build secure, scalable, and user-friendly web applications using modern techno
 ---
 
 ### 🚀 Featured Projects
-- [PI-DOGS-MAIN](https://github.com/braylond770/PI-DOGS-MAIN) — A React + Redux app for exploring dog breeds.
-- [Spotify Profile](https://github.com/braylond770/spotify-profile) — A personal Spotify analytics dashboard.
-- [Halcyon Site](https://github.com/braylond770/halcyon-site) — A responsive company landing page with animations.
+- [PI-DOGS-MAIN](https://github.com/braylon-jamon-dunn/PI-DOGS-MAIN) — A React + Redux app for exploring dog breeds.
+- [Spotify Profile](https://github.com/braylon-jamon-dunn/spotify-profile) — A personal Spotify analytics dashboard.
+- [Halcyon Site](https://github.com/braylon-jamon-dunn/halcyon-site) — A responsive company landing page with animations.
 
 ---
 
@@ -23,11 +23,12 @@ I build secure, scalable, and user-friendly web applications using modern techno
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** braylond770@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/braylon-dunn-1aa3563a3](https://www.linkedin.com/in/braylon-dunn-1aa3563a3)  
+- 📧 **Email:** braylon.dunn.jamon@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/braylon-dunn-048a58172](https://www.linkedin.com/in/braylon-dunn-048a58172)  
 - 🌐 **Portfolio:** [braylon-dunn.vercel.app](https://braylon-dunn.vercel.app)
 
 ---
 
-![Braylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=braylond770&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braylond770&layout=compact&theme=tokyonight)
+![Braylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=braylon-jamon-dunn&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braylon-jamon-dunn&layout=compact&theme=tokyonight)
